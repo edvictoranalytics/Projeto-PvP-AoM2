@@ -1,4 +1,4 @@
-#📌 Visão Geral
+# 📌 Visão Geral
 
 O projeto PvP High LvL tem como objetivo estruturar, documentar e ensinar o método estratégico para performance competitiva em guerras PvP nível 69 e 120.
 
@@ -12,21 +12,20 @@ Estruturação progressiva
 
 Mentalidade competitiva
 
-Execução otimizada
+Otimizar o processo
 
-🎯 Objetivo Principal
+# 🎯 Objetivo Principal
 
-Criar um método replicável que permita:
-
-Reduzir erros estruturais
+Reduzir erros de Build
 
 Otimizar investimento (tempo e recursos)
 
-Maximizar performance em guerra
+Start inicial no Set PvP
 
 Transformar jogadores medianos em players estratégicos
 
-🧠 Pilares do Projeto
+# 🧠 Pilares do Projeto
+
 1. Estrutura Base
 
 Classe
@@ -51,9 +50,9 @@ Controle de impacto por melhoria
 
 Custos
 
-ROI de upgrades
+Upgrades
 
-Impacto em performance real
+Impacto de performance
 
 4. Execução em Guerra
 
@@ -63,45 +62,29 @@ Leitura de cenário
 
 Adaptação tática
 
-📊 Estrutura da Planilha
+# 📊 Estrutura da Planilha
 
 O controle do projeto é dividido em:
 
 Roadmap de evolução
 
-Nível de importância
+Lvl e SKILL
 
-Status de conclusão
+Missões
 
-Controle de custos
+Equipamentos e Build
 
-Impacto estratégico
+Pedras do Dragão
 
-Prioridade de execução
+Controle de Custos
 
-🎥 Estrutura de Conteúdo (YouTube)
+Registro de Erros
 
-Formato dos vídeos:
 
-Diagnóstico do problema
+# 🚀 Próximos Passos
 
-Erro comum no PvP High LvL
+Refinar roadmap e demais worksheets
 
-Método estruturado
-
-Aplicação prática
-
-Resultado esperado
-
-Tom:
-Provocativo + técnico + estratégico
-
-🚀 Próximos Passos
-
-Refinar roadmap
-
-Definir metas por nível (69 / 120)
-
-Organizar calendário editorial
+Organizar Build para Batalha dos Recrutas (LvL 69)
 
 Padronizar modelo de análise de build
