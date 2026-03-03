@@ -1,5 +1,7 @@
 🎮 Projeto aplicado no servidor: Age of Metin2  
+
 📺 YouTube: [https://youtube.com/seucanal  ](https://www.youtube.com/@BispoShinsu)
+
 🟣 Twitch: [https://twitch.tv/seucanal](https://www.twitch.tv/bisposhinsutv)
 
 # 📌 Visão Geral
