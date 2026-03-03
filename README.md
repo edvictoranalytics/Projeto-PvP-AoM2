@@ -30,39 +30,35 @@ Transformar jogadores medianos em players estratégicos
 
 1. Estrutura Base
 
-Classe
+    Classe
 
-Build
+    Build
 
-Resistências
-
-Dano
-
-Setup mínimo viável
+    Resistências
 
 2. Planejamento Evolutivo
 
-Roadmap progressivo
+    Roadmap progressivo
 
-Priorização de upgrades
+    Priorização de upgrades
 
-Controle de impacto por melhoria
+    Controle de impacto por melhoria
 
 3. Controle Estratégico
 
-Custos
-
-Upgrades
-
-Impacto de performance
+    Custos
+    
+    Upgrades
+    
+    Impacto de performance
 
 4. Execução em Guerra
 
-Posicionamento
-
-Leitura de cenário
-
-Adaptação tática
+    Posicionamento
+    
+    Leitura de cenário
+    
+    Adaptação tática
 
 # 📊 Estrutura da Planilha
 
