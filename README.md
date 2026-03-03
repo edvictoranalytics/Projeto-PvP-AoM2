@@ -1,6 +1,8 @@
 # 📌 Visão Geral
 
-O projeto PvP High LvL tem como objetivo estruturar, documentar e ensinar o método estratégico para performance competitiva em guerras PvP nível 69 e 120.
+O projeto PvP High LvL tem como objetivo estruturar, documentar e ensinar o método estratégico para performance competitiva em guerras PvP nível 69 e 120 para os players do game Age of Metin2.
+
+https://aom2.org/pt-br/home
 
 Não se trata apenas de build, mas de:
 
