@@ -1,8 +1,12 @@
+🎮 Projeto aplicado no servidor: Age of Metin2  
+📺 YouTube: [https://youtube.com/seucanal  ](https://www.youtube.com/@BispoShinsu)
+🟣 Twitch: [https://twitch.tv/seucanal](https://www.twitch.tv/bisposhinsutv)
+
 # 📌 Visão Geral
 
 O projeto PvP High LvL tem como objetivo estruturar, documentar e ensinar o método estratégico para performance competitiva em guerras PvP nível 69 e 120 para os players do game Age of Metin2.
 
-https://aom2.org/pt-br/home
+Site oficial: https://aom2.org/pt-br/home
 
 Não se trata apenas de build, mas de:
 
@@ -86,3 +90,19 @@ Refinar roadmap e demais worksheets
 Organizar Build para Batalha dos Recrutas (LvL 69)
 
 Padronizar modelo de análise de build
+
+# 🛠 Ferramentas Utilizadas
+
+- Excel
+- Possível Estruturação de KPIs
+- Análise de Performance
+- Planejamento Estratégico
+
+# 🧩 Metodologia Aplicada
+
+O projeto segue um modelo baseado em:
+
+- Planejamento orientado a dados
+- Análise de impacto incremental
+- Controle de variáveis estratégicas
+- Gestão de risco competitivo
